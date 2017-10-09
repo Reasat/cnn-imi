@@ -1,5 +1,5 @@
 # cnn-imi
-This is a repository for the code developed to produced the results in the paper "Detection of Inferior Myocardial Infarction using Shallow Convolutional Neural Networks" (https://arxiv.org/abs/1710.01115v2)
+This is a repository for the code developed to produce the results in the paper "Detection of Inferior Myocardial Infarction using Shallow Convolutional Neural Networks" (https://arxiv.org/abs/1710.01115v2)
 
 While writing the codes, files and folder was organized in the following way
      
