@@ -13,7 +13,7 @@ All the code files (.ipynb,.py) were placed in code folder. The ecg records were
 
 preprocess_and_segment_data.ipynb --> Preprocesses the ECG signals and segments them according to [1]
 
-build_and_train_cnn.ipynb --> Builds the convolutional network, trains on training data and evaluates the model's performance on the validation data.
+build_train_validate_cnn.ipynb --> Builds the convolutional network, trains on training data and evaluates the model's performance on the validation data.
 
 extract_features_swt.py --> Extracts feature from ECG signals as described in [1]. These features are later used to in geometric separability index and Euclidean distance calculation.
 
