@@ -15,6 +15,6 @@ preprocess_and_segment_data.ipynb --> Preprocesses the ECG signals and segments 
 
 build_and_train_cnn.ipynb --> Builds the convolutional network, trains on training data and evaluates the model's performance on the validation data.
 
-extract_features_swt.py --> Extracts feature from ECG signals as described in [1]
+extract_features_swt.py --> Extracts feature from ECG signals as described in [1]. These features are later used to in geometric separability index and Euclidean distance calculation.
 
 [1] ["Inferior myocardial infarction detection using stationary wavelet transform and machine learning approach"](https://link.springer.com/article/10.1007/s11760-017-1146-z)
