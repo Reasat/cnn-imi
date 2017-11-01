@@ -17,4 +17,4 @@ build_and_train_cnn.ipynb --> Builds the convolutional network, trains on traini
 
 extract_features_swt.py --> Extracts feature from ECG signals as described in [1]
 
-[1] ["Inferior myocardial infarction detection using stationary wavelet transform and machine learning approach"] (https://link.springer.com/article/10.1007/s11760-017-1146-z)
+[1] ["Inferior myocardial infarction detection using stationary wavelet transform and machine learning approach"](https://link.springer.com/article/10.1007/s11760-017-1146-z)
