@@ -17,4 +17,4 @@ build_train_validate_cnn.ipynb --> Builds the convolutional network, trains on t
 
 extract_features_swt.py --> Extracts feature from ECG signals as described in [1]. These features are later used to in geometric separability index and Euclidean distance calculation.
 
-[1] Sharma, Lakhan Dev, and Ramesh Kumar Sunkaria. "Inferior myocardial infarction detection using stationary wavelet transform and machine learning approach." Signal, Image and Video Processing (2017): 1-8. [link](https://link.springer.com/article/10.1007/s11760-017-1146-z)
+[1] [Sharma, Lakhan Dev, and Ramesh Kumar Sunkaria. "Inferior myocardial infarction detection using stationary wavelet transform and machine learning approach." Signal, Image and Video Processing (2017): 1-8.](https://link.springer.com/article/10.1007/s11760-017-1146-z)
