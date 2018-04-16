@@ -13,7 +13,7 @@ While writing the codes, files and folder was organized in the following way
    * data
    * ptbdb
         
-All the code files (.ipynb,.py) were placed in code folder. The ecg records were downloaded from [PhysioNet](https://www.physionet.org/physiobank/database/ptbdb/) to the ptbdb folder. The preprocessed data, extracted features were saved in data folder.
+All the code files (.ipynb,.py) were placed in `code` folder. The ecg records were downloaded from [PhysioNet](https://www.physionet.org/physiobank/database/ptbdb/) to the `ptbdb` folder. The preprocessed data, extracted features were saved in `data` folder.
 
 `preprocess_and_segment_data.ipynb` --> Preprocesses the ECG signals and segments them according to [1]
 
