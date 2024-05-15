@@ -6,6 +6,12 @@ This is a repository for the code developed to produce the results in the paper 
 Myocardial Infarction is one of the leading causes of death worldwide. This paper presents a Convolutional Neural Network (CNN) architecture which takes raw Electrocardiography (ECG) signal from lead II, III and AVF and differentiates between inferior myocardial infarction (IMI) and healthy signals. The performance of the model is evaluated on IMI and healthy signals obtained from Physikalisch-Technische Bundesanstalt (PTB) database. A subject-oriented approach is taken to comprehend the generalization capability of the model and compared with the current state of the art. In a subject-oriented approach, the network is tested on one patient and trained on rest of the patients. Our model achieved a superior metrics scores (accuracy= 84.54%, sensitivity= 85.33% and specificity= 84.09%) when compared to the benchmark. We also analyzed the discriminating strength of the features extracted by the convolutional layers by means of geometric separability index and euclidean distance and compared it with the benchmark model.
 
 While writing the codes, files and folder was organized in the following way
+
+#### CNN-IMI model architecture
+![image](https://github.com/Reasat/cnn-imi/assets/15989033/86195431-9334-4f67-a07c-dbbf1c644d3f)
+![image](https://github.com/Reasat/cnn-imi/assets/15989033/8cfa5b95-ad01-4633-84c0-05950fff9596)
+
+
      
 #### Project tree
  * PTB
